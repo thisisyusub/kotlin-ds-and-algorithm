@@ -1,4 +1,4 @@
-package linkedList
+package dataStructuresAndAlgorithms.linkedList
 
 class LinkedListIterator<T : Any>(private val list: LinkedList<T>) : Iterator<T> {
     private var index = 0

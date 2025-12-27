@@ -1,4 +1,4 @@
-package linkedList
+package dataStructuresAndAlgorithms.linkedList
 
 class LinkedList<T : Any> : Iterable<T>, Collection<T> {
     private var head: Node<T>? = null
