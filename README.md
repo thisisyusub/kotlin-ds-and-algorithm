@@ -2,9 +2,18 @@
 
 ---
 
+
 ## Data structures implementations
 
-[SinglyLinkedList](src/main/dataStructuresAndAlgorithms/linkedList)
+[Singly Linked List](src/main/dataStructures/singlyLinkedList/LinkedList.kt)
+
+---
+
+## Algorithms
+
+[Linear Search](src/main/algorithms/LinearSearch.kt)
+
+[Binary Search](src/main/algorithms/BinarySearch.kt)
 
 ---
 
