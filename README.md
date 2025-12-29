@@ -24,5 +24,7 @@
 
 [26. Remove Duplicates From Sorted Array](src/main/kotlin/leetcodeSolutions/RemoveDuplicatesFromSortedArray.kt)
 
+[26. Remove Element](src/main/kotlin/leetcodeSolutions/RemoveElement.kt)
+
 
 
