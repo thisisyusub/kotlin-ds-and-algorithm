@@ -26,5 +26,7 @@
 
 [26. Remove Element](src/main/kotlin/leetcodeSolutions/RemoveElement.kt)
 
+[28. Find the Index of the First Occurrence in a String](src/main/kotlin/leetcodeSolutions/FindTheIndexOfFirstOccurenceInAString.kt)
+
 
 
