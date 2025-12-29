@@ -1,4 +1,4 @@
-package dataStructuresAndAlgorithms.linkedList
+package dataStructures.singlyLinkedList
 
 data class Node<T: Any>(
     val value: T,

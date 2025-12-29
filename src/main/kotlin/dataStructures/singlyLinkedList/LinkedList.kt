@@ -1,4 +1,4 @@
-package dataStructuresAndAlgorithms.linkedList
+package dataStructures.singlyLinkedList
 
 class LinkedList<T : Any> : Iterable<T>, Collection<T> {
     private var head: Node<T>? = null

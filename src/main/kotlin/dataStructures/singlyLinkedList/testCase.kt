@@ -1,4 +1,4 @@
-package dataStructuresAndAlgorithms.linkedList
+package dataStructures.singlyLinkedList
 
 fun main() {
     val list = LinkedList<Int>()
