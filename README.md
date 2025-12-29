@@ -10,19 +10,19 @@
 
 ### LeetCode Solutions
 
-[1. Two Sum](src/main/leetcodeSolutions/TwoSum.kt)
+[1. Two Sum](src/main/kotlin/leetcodeSolutions/TwoSum.kt)
 
-[9. Palindrome Number](src/main/leetcodeSolutions/PalindromeNumber.kt)
+[9. Palindrome Number](src/main/kotlin/leetcodeSolutions/PalindromeNumber.kt)
 
-[13. Roman to integer](src/main/leetcodeSolutions/RomanToInteger.kt)
+[13. Roman to integer](src/main/kotlin/leetcodeSolutions/RomanToInteger.kt)
 
-[14. Longest Common Prefix](src/main/leetcodeSolutions/LongestCommonPrefix.kt)
+[14. Longest Common Prefix](src/main/kotlin/leetcodeSolutions/LongestCommonPrefix.kt)
 
-[20. Valid Parentheses](src/main/leetcodeSolutions/ValidParentheses.kt)
+[20. Valid Parentheses](src/main/kotlin/leetcodeSolutions/ValidParentheses.kt)
 
-[21. Merge Two Sorted List](src/main/leetcodeSolutions/MergeTwoSortedList.kt)
+[21. Merge Two Sorted List](src/main/kotlin/leetcodeSolutions/MergeTwoSortedList.kt)
 
-[26. Remove Duplicates From Sorted Array](src/main/leetcodeSolutions/RemoveDuplicatesFromSortedArray.kt)
+[26. Remove Duplicates From Sorted Array](src/main/kotlin/leetcodeSolutions/RemoveDuplicatesFromSortedArray.kt)
 
 
 
