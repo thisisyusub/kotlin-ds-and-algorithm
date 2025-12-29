@@ -5,15 +5,15 @@
 
 ## Data structures implementations
 
-[Singly Linked List](src/main/dataStructures/singlyLinkedList/LinkedList.kt)
+[Singly Linked List](src/main/kotlin/dataStructures/singlyLinkedList/LinkedList.kt)
 
 ---
 
 ## Algorithms
 
-[Linear Search](src/main/algorithms/LinearSearch.kt)
+[Linear Search](src/main/kotlin/algorithms/LinearSearch.kt)
 
-[Binary Search](src/main/algorithms/BinarySearch.kt)
+[Binary Search](src/main/kotlin/algorithms/BinarySearch.kt)
 
 ---
 
