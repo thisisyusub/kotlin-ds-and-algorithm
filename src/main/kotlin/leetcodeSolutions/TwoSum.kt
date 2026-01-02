@@ -5,7 +5,6 @@ package leetcodeSolutions
  * link: https://leetcode.com/problems/two-sum
  */
 
-private class Solution1 {
     fun twoSum(nums: IntArray, target: Int): IntArray {
         val map = HashMap<Int, Int>()
 
@@ -22,4 +21,3 @@ private class Solution1 {
 
         return intArrayOf()
     }
-}

@@ -9,7 +9,6 @@ class ListNode(var `val`: Int) {
     var next: ListNode? = null
 }
 
-class Solution21 {
     fun mergeTwoLists(list1: ListNode?, list2: ListNode?): ListNode? {
         if(list1 == null) return list2
         if (list2 == null) return list1
@@ -40,4 +39,3 @@ class Solution21 {
 
         return fakeHead.next
     }
-}

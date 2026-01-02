@@ -5,7 +5,6 @@ package leetcodeSolutions
  * link: https://leetcode.com/problems/search-insert-position
  */
 
-class Solution35 {
     fun searchInsert(nums: IntArray, target: Int): Int {
         var startIndex = 0
         var endIndex = nums.size - 1
@@ -29,4 +28,3 @@ class Solution35 {
 
         return startIndex
     }
-}

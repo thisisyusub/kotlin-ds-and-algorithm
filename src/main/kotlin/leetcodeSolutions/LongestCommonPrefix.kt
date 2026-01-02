@@ -5,7 +5,6 @@ package leetcodeSolutions
  * link: https://leetcode.com/problems/longest-common-prefix
  */
 
-class Solution14 {
     fun longestCommonPrefix(strs: Array<String>): String {
         if (strs.isEmpty()) return ""
 
@@ -30,4 +29,3 @@ class Solution14 {
 
         return prefixBuilder.toString()
     }
-}

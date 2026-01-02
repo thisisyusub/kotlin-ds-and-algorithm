@@ -5,7 +5,6 @@ package leetcodeSolutions
  * link: https://leetcode.com/problems/remove-element
  */
 
-class Solution27 {
     fun removeElement(nums: IntArray, `val`: Int): Int {
       var left = 0
       var right = nums.size - 1
@@ -27,5 +26,4 @@ class Solution27 {
       }
 
         return left
-    }
 }

@@ -7,7 +7,6 @@ import java.util.Stack
  * link: https://leetcode.com/problems/valid-parentheses
  */
 
-class Solution20 {
     fun isValid(s: String): Boolean {
         if(s.isEmpty()) true
 
@@ -47,4 +46,3 @@ class Solution20 {
             else -> throw IllegalArgumentException()
         }
     }
-}

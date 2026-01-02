@@ -5,7 +5,6 @@ package leetcodeSolutions
  * link: https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string
  */
 
-class Solution28 {
     fun strStr(haystack: String, needle: String): Int {
         var i = 0
         var j = 0
@@ -23,4 +22,3 @@ class Solution28 {
 
         return if (j == needle.length) i - j else -1
     }
-}

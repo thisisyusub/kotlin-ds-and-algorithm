@@ -25,7 +25,6 @@ package leetcodeSolutions
  *   4) n = 0
  */
 
-private class Solution9 {
     fun isPalindrome(x: Int): Boolean {
         if(x < 0) return false
 
@@ -40,4 +39,3 @@ private class Solution9 {
 
         return x == reversed
     }
-}

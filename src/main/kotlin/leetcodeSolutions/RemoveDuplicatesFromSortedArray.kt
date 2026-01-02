@@ -5,7 +5,6 @@ package leetcodeSolutions
  * link: https://leetcode.com/problems/remove-duplicates-from-sorted-array
  */
 
-class Solution26 {
     fun removeDuplicates(nums: IntArray): Int {
         if (nums.isEmpty()) return 0
 
@@ -26,4 +25,3 @@ class Solution26 {
 
         return uniqueCounter
     }
-}

@@ -17,7 +17,6 @@ package leetcodeSolutions
  * MCMXCIV -> 1000 + 100 + (1000 -100 * 2) + 10 + (100 - 10 * 2) + 1 + (5 - 1*2)
  */
 
-class Solution13 {
     fun romanToInt(s: String): Int {
         var prevNumber: Int? = null
         var total = 0
@@ -36,7 +35,6 @@ class Solution13 {
 
         return total
     }
-}
 
 fun getValue(char: Char): Int {
     return when (char) {

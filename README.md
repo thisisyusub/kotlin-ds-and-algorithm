@@ -17,7 +17,9 @@
 
 ---
 
-### LeetCode Solutions
+## LeetCode Solutions
+
+#### Easy level
 
 [1. Two Sum](src/main/kotlin/leetcodeSolutions/TwoSum.kt)
 
@@ -36,6 +38,14 @@
 [26. Remove Element](src/main/kotlin/leetcodeSolutions/RemoveElement.kt)
 
 [28. Find the Index of the First Occurrence in a String](src/main/kotlin/leetcodeSolutions/FindTheIndexOfFirstOccurenceInAString.kt)
+
+[35. Search Insert Position](src/main/kotlin/leetcodeSolutions/SearchInsertPosition.kt)
+
+[58. Length of Last Word](src/main/kotlin/leetcodeSolutions/LengthOfLastWord.kt)
+
+----
+
+#### Medium level
 
 
 
