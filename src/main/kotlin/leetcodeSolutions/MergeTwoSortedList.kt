@@ -6,14 +6,14 @@ package leetcodeSolutions
  */
 
 class ListNode(var `val`: Int) {
-    var next: ListNode? = null
+    var next: ListNode1? = null
 }
 
-    fun mergeTwoLists(list1: ListNode?, list2: ListNode?): ListNode? {
+    fun mergeTwoLists(list1: ListNode1?, list2: ListNode1?): ListNode1? {
         if(list1 == null) return list2
         if (list2 == null) return list1
 
-        val fakeHead = ListNode(-1)
+        val fakeHead = ListNode1(-1)
 
         var currentIterator = fakeHead
         var list1Iterator = list1
