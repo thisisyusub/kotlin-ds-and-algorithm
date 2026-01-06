@@ -43,8 +43,6 @@ day 10 => [35. Search Insert Position](src/main/kotlin/leetcodeSolutions/SearchI
 
 day 11 => [58. Length of Last Word](src/main/kotlin/leetcodeSolutions/LengthOfLastWord.kt)
 
-day 12 => [2. Add Two Numbers](src/main/kotlin/leetcodeSolutions/AddTwoNumbers.kt)
-
 day 13 => [66. Plus One](src/main/kotlin/leetcodeSolutions/PlusOne.kt)
 
 day 14 => [67. Add Binary](src/main/kotlin/leetcodeSolutions/AddBinary.kt)
@@ -65,5 +63,6 @@ day 20 => [141. Linked List Cycle](src/main/kotlin/leetcodeSolutions/LinkedListC
 
 #### Medium level
 
+day 12 => [2. Add Two Numbers](src/main/kotlin/leetcodeSolutions/AddTwoNumbers.kt)
 
 
