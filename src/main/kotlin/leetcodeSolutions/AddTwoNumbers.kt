@@ -1,16 +1,15 @@
 package leetcodeSolutions
 
+import leetcodeSolutions.nodes.ListNode
+
 /**
  * 2. Add Two Numbers
  * link: https://leetcode.com/problems/add-two-numbers
  */
 
-class ListNode1(var `val`: Int) {
-    var next: ListNode1? = null
-}
 
-fun addTwoNumbers(l1: ListNode1?, l2: ListNode1?): ListNode1? {
-    val dummyHead = ListNode1(0)
+fun addTwoNumbers(l1: ListNode?, l2: ListNode?): ListNode? {
+    val dummyHead = ListNode(0)
 
     var current = dummyHead
     var p1 = l1
@@ -24,7 +23,7 @@ fun addTwoNumbers(l1: ListNode1?, l2: ListNode1?): ListNode1? {
         val sum = currentL1 + currentL2 + rem
 
         rem = sum / 10
-        current.next = ListNode1(sum % 10)
+        current.next = ListNode(sum % 10)
         current = current.next!!
 
         p1 = p1?.next

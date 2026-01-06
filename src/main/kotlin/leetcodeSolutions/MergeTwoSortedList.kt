@@ -1,19 +1,17 @@
 package leetcodeSolutions
 
+import leetcodeSolutions.nodes.ListNode
+
 /**
  * 21. Merge Two Sorted List
  * link: https://leetcode.com/problems/merge-two-sorted-lists
  */
 
-class ListNode(var `val`: Int) {
-    var next: ListNode1? = null
-}
-
-    fun mergeTwoLists(list1: ListNode1?, list2: ListNode1?): ListNode1? {
+    fun mergeTwoLists(list1: ListNode?, list2: ListNode?): ListNode? {
         if(list1 == null) return list2
         if (list2 == null) return list1
 
-        val fakeHead = ListNode1(-1)
+        val fakeHead = ListNode(-1)
 
         var currentIterator = fakeHead
         var list1Iterator = list1
