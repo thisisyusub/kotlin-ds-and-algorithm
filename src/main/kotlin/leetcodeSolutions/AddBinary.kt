@@ -1,4 +1,4 @@
-package leetcodeSolutions
+gipackage leetcodeSolutions
 
 /**
  * 67. Add Binary
