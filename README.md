@@ -59,6 +59,16 @@ day 19 => [136. Single Number](src/main/kotlin/leetcodeSolutions/SingleNumber.kt
 
 day 20 => [141. Linked List Cycle](src/main/kotlin/leetcodeSolutions/LinkedListCycle.kt)
 
+day 21 => [160. Intersection of Two Linked Lists](src/main/kotlin/leetcodeSolutions/IntersectionOfTwoLinkedList.kt)
+
+day 22 => [203. Remove Linked List Elements](src/main/kotlin/leetcodeSolutions/RemoveLinkedListElements.kt)
+
+day 23 => [876. Middle of the Linked List](src/main/kotlin/leetcodeSolutions/MiddleOfTheLinkedList.kt)
+
+day 24 => [206. Reverse Linked List](src/main/kotlin/leetcodeSolutions/ReverseLinkedList.kt)
+
+day 25 => [234. Palindrome Linked List](src/main/kotlin/leetcodeSolutions/PalindromeLinkedList.kt)
+
 ----
 
 #### Medium level
