@@ -69,6 +69,14 @@ day 24 => [206. Reverse Linked List](src/main/kotlin/leetcodeSolutions/ReverseLi
 
 day 25 => [234. Palindrome Linked List](src/main/kotlin/leetcodeSolutions/PalindromeLinkedList.kt)
 
+day 26=> [231. Power of two](src/main/kotlin/leetcodeSolutions/PowerOfTwo.kt)
+
+day 27=> [258. Add Digits](src/main/kotlin/leetcodeSolutions/AddDigits.kt)
+
+day 28=> [263. Ugly Number](src/main/kotlin/leetcodeSolutions/UglyNumber.kt)
+
+day 29=> [268. Missing Number](src/main/kotlin/leetcodeSolutions/MissingNumber.kt)
+
 ----
 
 #### Medium level
